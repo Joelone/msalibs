@@ -1,3 +1,5 @@
+IMPORTANT: I WILL NO LONGER BE UPDATING THIS REPO. EACH MODULE NOW HAS ITS OWN REPO ON GITHUB. I"M ONLY KEEPING THIS REPO ALIVE FOR ARCHIVE PURPOSES.
+
 A collection of C++ libraries / utilities. 
 A very lightweight wrapper maps basic types to allow tight integration with openFrameworks (www.openframeworks.cc) and Cinder (www.libcinder.org).
 See www.msalibs.org for demos.
